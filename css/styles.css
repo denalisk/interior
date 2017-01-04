@@ -1,0 +1,26 @@
+body {
+  background-color: #cee0c5;
+  text-align: center;
+}
+
+.size-1 {
+  height: 300px;
+  border-radius: 50%;
+}
+
+div img {
+  height: 200px;
+
+}
+
+div.column {
+  width: 30%;
+  float: left;
+  padding: 10px;
+  border: 3px solid #3c9687;
+  text-align: center;
+}
+
+.column img, .column p {
+  border: 1px dotted black;
+}
