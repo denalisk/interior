@@ -13,7 +13,7 @@ div img {
 
 }
 
-div.column {
+.column {
   width: 30%;
   float: left;
   padding: 10px;
@@ -23,4 +23,14 @@ div.column {
 
 .column img, .column p {
   border: 1px dotted black;
+}
+
+.col1 {
+  background-color: #43e53d;
+}
+.col2 {
+  background-color: #e53dc3;
+}
+.col3 {
+  background-color: #e5d43d;
 }
